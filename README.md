@@ -10,6 +10,12 @@ description: nestjs 🐈 - copy to clipboard docs - would be helpful
 
 status: ☁️ waiting
 
+- https://github.com/hnarayanan/shpotify/issues/160
+
+description: shpotify - spotify CLI - liked songs PR
+
+status: ☁️ waiting (I m v lzy)
+
 2023 
 
 - https://github.com/reactjs/react-rails/pull/1325
