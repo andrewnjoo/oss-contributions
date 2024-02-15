@@ -30,3 +30,15 @@ status: ❌ DNM as version update requires additional docs update (my bad I gues
 description: npm - dark mode 🌑🌞 should probably give it a shot
 
 status: ☁️ waiting
+
+---
+
+resources:
+
+https://about.gitlab.com/solutions/open-source/projects/
+
+https://github.com/MunGell/awesome-for-beginners#python
+
+https://up-for-grabs.net/#/
+
+https://www.reddit.com/r/learnprogramming/comments/102egpp/how_does_one_find_open_source_projects_to/
