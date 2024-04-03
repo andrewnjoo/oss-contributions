@@ -4,6 +4,10 @@ help track OSS contributions
 
 2024
 
+- https://github.com/tremorlabs/tremor/issues/305
+
+description: tremor - react focus style for tabs 
+
 - https://github.com/nestjs/docs.nestjs.com/issues/2332
 
 description: nestjs 🐈 - copy to clipboard docs - would be helpful
