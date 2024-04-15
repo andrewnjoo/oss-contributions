@@ -8,7 +8,7 @@ help track OSS contributions
 
 description: tremor - react focus style for tabs 
 
-status: 👩‍💻 under review
+status: 👍 merged 04.12.24
 
 - https://github.com/nestjs/docs.nestjs.com/issues/2332
 
