@@ -4,7 +4,8 @@ help track OSS contributions
 
 2024
 
-- https://github.com/tremorlabs/tremor/issues/305
+- https://github.com/tremorlabs/tremor/issues/305 (issue)
+- https://github.com/tremorlabs/tremor/pull/1009 (PR)
 
 description: tremor - react focus style for tabs 
 
