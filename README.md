@@ -4,6 +4,12 @@ help track OSS contributions
 
 2024
 
+- https://github.com/mrzachnugent/react-native-reusables/issues/160
+
+description: react native reusables X on Dialog not work
+
+status: ❓ awaiting
+
 - https://github.com/tremorlabs/tremor/issues/305 (issue)
 - https://github.com/tremorlabs/tremor/pull/1009 (PR)
 
