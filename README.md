@@ -1,63 +1,42 @@
-# oss-contributions
+# OSS Contributions
 
-help track OSS contributions
+## 2024
 
-2024
+- [rails/rails#53390](https://github.com/rails/rails/issues/53390)
+  - **Description**: `field_with_errors` distorting HTML
+  - **Status**: ❌ Closed – "more like a feature request"
 
-- https://github.com/rails/rails/issues/53390
+- [mrzachnugent/react-native-reusables#160](https://github.com/mrzachnugent/react-native-reusables/issues/160)
+  - **Description**: React Native Reusables X on Dialog not working
+  - **Status**: ❓ Awaiting
 
-description: `field_with_errors` distorting HTML
+- [tremorlabs/tremor#305 (Issue)](https://github.com/tremorlabs/tremor/issues/305), [tremorlabs/tremor#1009 (PR)](https://github.com/tremorlabs/tremor/pull/1009)
+  - **Description**: Tremor - React focus style for tabs
+  - **Status**: 👍 Merged on 04.12.24
 
-status: ❌ closed as it's 'more like a feature request' 
+- [nestjs/docs.nestjs.com#2332](https://github.com/nestjs/docs.nestjs.com/issues/2332)
+  - **Description**: NestJS 🐈 - Copy to clipboard in docs - would be helpful
+  - **Status**: ☁️ Waiting
 
-- https://github.com/mrzachnugent/react-native-reusables/issues/160
+- [hnarayanan/shpotify#160](https://github.com/hnarayanan/shpotify/issues/160)
+  - **Description**: Shpotify - Spotify CLI - liked songs PR
+  - **Status**: ☁️ Waiting (I’m v lzy)
 
-description: react native reusables X on Dialog not work
+## 2023
 
-status: ❓ awaiting
+- [reactjs/react-rails#1325](https://github.com/reactjs/react-rails/pull/1325)
+  - **Description**: Wanted to help improve docs as installing dependencies caused a console error on quickstart
+  - **Status**: ❌ DNM – version update requires additional docs update (my bad, I guess)
 
-- https://github.com/tremorlabs/tremor/issues/305 (issue)
-- https://github.com/tremorlabs/tremor/pull/1009 (PR)
-
-description: tremor - react focus style for tabs 
-
-status: 👍 merged 04.12.24
-
-- https://github.com/nestjs/docs.nestjs.com/issues/2332
-
-description: nestjs 🐈 - copy to clipboard docs - would be helpful
-
-status: ☁️ waiting
-
-- https://github.com/hnarayanan/shpotify/issues/160
-
-description: shpotify - spotify CLI - liked songs PR
-
-status: ☁️ waiting (I m v lzy)
-
-2023 
-
-- https://github.com/reactjs/react-rails/pull/1325
-
-description: wanted to help improve docs as installing dependencies caused a console error on quickstart
-
-status: ❌ DNM as version update requires additional docs update (my bad I guess)
-
-- https://github.com/npm/documentation/issues/839
-
-
-description: npm - dark mode 🌑🌞 should probably give it a shot
-
-status: ☁️ waiting
+- [npm/documentation#839](https://github.com/npm/documentation/issues/839)
+  - **Description**: NPM - Dark mode 🌑🌞 should probably give it a shot
+  - **Status**: ☁️ Waiting
 
 ---
 
-resources:
+### Resources
 
-https://about.gitlab.com/solutions/open-source/projects/
-
-https://github.com/MunGell/awesome-for-beginners#python
-
-https://up-for-grabs.net/#/
-
-https://www.reddit.com/r/learnprogramming/comments/102egpp/how_does_one_find_open_source_projects_to/
+- [GitLab Open Source Projects](https://about.gitlab.com/solutions/open-source/projects/)
+- [Awesome for Beginners - Python](https://github.com/MunGell/awesome-for-beginners#python)
+- [Up-for-grabs](https://up-for-grabs.net/#/)
+- [Reddit - How to find open source projects to contribute to](https://www.reddit.com/r/learnprogramming/comments/102egpp/how_does_one_find_open_source_projects_to/)
