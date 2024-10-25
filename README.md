@@ -4,6 +4,12 @@ help track OSS contributions
 
 2024
 
+- https://github.com/rails/rails/issues/53390
+
+description: `field_with_errors` distorting HTML
+
+status: ❌ closed as it's 'more like a feature request' 
+
 - https://github.com/mrzachnugent/react-native-reusables/issues/160
 
 description: react native reusables X on Dialog not work
